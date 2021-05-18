@@ -1,0 +1,9 @@
+﻿  Level 2,3.cpp
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(360,16): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(365,13): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(394,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(407,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(416,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(532,8): warning C4101: 'k': unreferenced local variable
+F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Level 2,3.cpp(679): warning C4715: 'inverse': not all control paths return a value
+  Level 2,3.vcxproj -> F:\Projects\Programming Project\1st Year Programming Project\Level2,3\Level 2,3\Debug\Level 2,3.exe
